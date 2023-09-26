@@ -1,0 +1,7 @@
+{
+  "name": "papa-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
